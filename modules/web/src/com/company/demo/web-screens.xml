@@ -9,4 +9,6 @@
             template="com/company/demo/web/customer/customer-browse.xml"/>
     <screen id="demo$Customer.edit"
             template="com/company/demo/web/customer/customer-edit.xml"/>
+    <screen id="mainWindow"
+            template="com/company/demo/web/mainwindow/ext-mainwindow.xml"/>
 </screen-config>
